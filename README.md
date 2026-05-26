@@ -20,18 +20,18 @@ Construindo projetos próprios pra consolidar minha stack e buscando minha prime
 
 <br>
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 🔭 Focado em **Java + Spring Boot** — é o que eu quero trabalhar
-- 💼 Hoje sou auxiliar administrativo, mas já desenvolvo o sistema interno da empresa
-- 🎓 Cursando **ADS**, em transição para o **IFBA**
-- 🧱 Planejando 8 projetos pra construir um portfólio sólido de backend
-- 📍 Irecê — Bahia
-- 🎯 Buscando minha **primeira oportunidade como dev Java**
+- ▸ Focado em **Java + Spring Boot** — é o que eu quero trabalhar
+- ▸ Hoje sou auxiliar administrativo, mas já desenvolvo o sistema interno da empresa
+- ▸ Cursando **ADS**, em transição para o **IFBA**
+- ▸ Planejando 8 projetos pra construir um portfólio sólido de backend
+- ▸ Irecê — Bahia
+- ▸ Buscando minha **primeira oportunidade como dev Java**
 
 <br>
 
-## ⚙️ Stack
+## Stack
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Construindo projetos próprios pra consolidar minha stack e buscando minha prime
 
 <br>
 
-## 🗂️ Projetos — em planejamento
+## Projetos — em planejamento
 
 Estou documentando uma série de projetos pra praticar diferentes conceitos do Spring Boot.
 Cada repo já tem o README completo com entidades, endpoints e o que vai ser implementado.
@@ -110,7 +110,7 @@ Cada repo já tem o README completo com entidades, endpoints e o que vai ser imp
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Corporativos
+### Corporativos
 
 <br>
 
@@ -124,7 +124,7 @@ Cada repo já tem o README completo com entidades, endpoints e o que vai ser imp
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Games
+### Games
 
 <br>
 
@@ -141,7 +141,7 @@ Cada repo já tem o README completo com entidades, endpoints e o que vai ser imp
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
