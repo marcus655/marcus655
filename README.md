@@ -26,7 +26,7 @@ Construindo projetos próprios pra consolidar minha stack e buscando minha prime
 - ▸ Hoje sou auxiliar administrativo, mas já desenvolvo o sistema interno da empresa
 - ▸ Cursando **ADS**, em transição para o **IFBA**
 - ▸ Planejando 8 projetos pra construir um portfólio sólido de backend
-- ▸ Irecê — Bahia
+- ▸ Brasil
 - ▸ Buscando minha **primeira oportunidade como dev Java**
 
 <br>
