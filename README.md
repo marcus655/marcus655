@@ -22,7 +22,12 @@ Construindo projetos próprios pra consolidar minha stack e buscando minha prime
 
 ## 🧑‍💻 Sobre mim
 
-Trabalho como auxiliar administrativo e, em paralelo, desenvolvo sistemas — do levantamento de requisitos ao deploy. Moro em Irecê (BA), cursando ADS e em transição para o IFBA.
+- 🔭 Focado em **Java + Spring Boot** — é o que eu quero trabalhar
+- 💼 Hoje sou auxiliar administrativo, mas já desenvolvo o sistema interno da empresa
+- 🎓 Cursando **ADS**, em transição para o **IFBA**
+- 🧱 Planejando 8 projetos pra construir um portfólio sólido de backend
+- 📍 Irecê — Bahia
+- 🎯 Buscando minha **primeira oportunidade como dev Java**
 
 <br>
 
@@ -147,6 +152,10 @@ Cada repo já tem o README completo com entidades, endpoints e o que vai ser imp
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcus655&theme=black-ice&hide_border=true&background=0d1117&ring=ff00aa&fire=ff00aa&currStreakLabel=ff00aa&sideLabels=c9d1d9&dates=555555" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcus655&bg_color=0d1117&color=c9d1d9&line=ff00aa&point=ff00aa&area=true&area_color=ff00aa&hide_border=true" width="95%" />
 
 </div>
 
