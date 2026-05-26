@@ -32,17 +32,67 @@ Trabalho como auxiliar administrativo e, em paralelo, desenvolvo sistemas — do
 
 ### Uso no dia a dia
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,postman,idea&theme=dark&perline=8" alt="Stack principal" />
-</a>
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
+  <br><sub><b>Java 17</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" />
+  <br><sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48" height="48" alt="JPA" />
+  <br><sub><b>Spring JPA</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+  <br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Maven" />
+  <br><sub><b>Maven</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+  <br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+  <br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
+  <br><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ" />
+  <br><sub><b>IntelliJ</b></sub>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 ### Estudando
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,hibernate&theme=dark&perline=5" alt="Estudando" />
-</a>
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+  <br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" />
+  <br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/JU-25A162?style=flat-square" width="48" height="48" alt="JUnit" />
+  <br><sub><b>JUnit 5</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
